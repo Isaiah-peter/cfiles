@@ -6,7 +6,7 @@
 #include <unistd.h>
 #endif
 
-int main()
+int test()
 {
 	int h, m, s;
 	int d = 1;
